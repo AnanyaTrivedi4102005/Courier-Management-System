@@ -36,6 +36,6 @@ This project is a **Courier Management System (CMS)** built using **Python**, **
 
 ## Technologies Used
 
-- Python**: The programming language used for building the backend of the system.
+- Python: The programming language used for building the backend of the system.
 - SQLite3: A lightweight relational database management system used to store the data.
 
